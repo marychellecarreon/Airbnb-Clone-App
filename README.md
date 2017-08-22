@@ -22,3 +22,6 @@ Signup
  Option to Login between email and Facebook
  ![screen shot 2017-08-22 at 8 56 48 am](https://user-images.githubusercontent.com/26729817/29544086-69a83332-8718-11e7-9daf-24dc369c97a8.png)
  
+ Available Rooms posted 
+ ![screen shot 2017-08-22 at 8 57 10 am](https://user-images.githubusercontent.com/26729817/29544123-9ae088aa-8718-11e7-8862-10929e5af757.png)
+ 
