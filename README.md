@@ -25,3 +25,10 @@ Signup
  Available Rooms posted 
  ![screen shot 2017-08-22 at 8 57 10 am](https://user-images.githubusercontent.com/26729817/29544123-9ae088aa-8718-11e7-8862-10929e5af757.png)
  
+ 
+ If you want to view the room, you can click and show and it will show you the details of the room. 
+ Finally, a booking form together with all the existing reviews and rates are reflected below
+ ![screen shot 2017-08-22 at 8 57 58 am](https://user-images.githubusercontent.com/26729817/29544211-2f1bfb94-8719-11e7-9a4d-30722fb6abf3.png)
+![screen shot 2017-08-22 at 8 58 07 am](https://user-images.githubusercontent.com/26729817/29544213-31a0b7e2-8719-11e7-8cdc-ae0d268236db.png)
+
+ 
